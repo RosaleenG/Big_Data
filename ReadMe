@@ -1,0 +1,10 @@
+This project analyses and conducts business intelligence on a JSON dataset from Hacker News using Spark
+
+The project covers the implementation of a set of functions to analyze a dataset containing (almost) all posts from HackerNews.
+
+Each function takes a PySpark RDD called dataset and should return a specific object.
+
+Getting started
+There are two ways you can submit your code:
+
+For testing purposes, load the dataset provided to a PySpark RDD. The notebook will help you to load the dataset into an RDD and test your functions.
